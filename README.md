@@ -1,7 +1,4 @@
-# Updating the README file to include the additional libraries
-
-# New README content with the additional libraries
-updated_readme_content = """# Stock Market Analysis Project
+# Stock_Predict_LSTM_CNN
 
 This project involves analyzing and predicting stock market data, focusing primarily on Apple Inc. (AAPL) and several other major technology stocks. It utilizes historical stock data to answer specific analytical questions and applies deep learning models for stock price prediction.
 
